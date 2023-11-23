@@ -1,0 +1,90 @@
+img{
+    background-color: #3B3B3B;
+  max-width: 100%;  
+}
+header{
+  background-color: #DACFA6;
+  max-width: 100%;
+  font-weight: bold;
+}
+nav {
+  background-color:#E0D0A6;
+}
+nav .nav-link {
+  color: #3B3B3B;
+  font-size: 12pt;
+  font-weight: bold;
+}
+.nav-item:hover{
+  transform: scale(1.1);
+  background-color:#F6B75C;
+}
+h1 span {
+  margin-right: 10px; /* Espacio entre la palabra y la línea */
+}
+
+.card {
+  background-color: #F6B75C;
+}
+
+.bi {
+color: #F6B75C;
+
+}
+
+h1 hr {
+  flex: 1;
+  border: none;
+  border-top: 10px solid #F6B75C;
+}
+.h3{
+  color: #ffff;
+  font-weight: 800;
+  font-size: 16px;
+}
+h4{
+  font-weight: 600;
+  font-size: 16px;
+}
+h5{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+h2{
+  font-size: 14pt;
+  font-weight: 800;
+}
+
+p{
+  font-size: 10pt;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.btn{
+  background-color: #E5B266;
+  color: #F3ECE1;
+}
+
+.btn:hover{
+  transform: scale(1.2);
+  background-color:#F6B75C;
+}
+
+.bi:hover {
+  transform: scale(1.2);
+  color: #F1E4B2;
+
+}
+
+h5{
+  font-size: 12pt;
+  font-weight: 600;
+}
+body {
+  background-color: #E0D0A6;
+  margin: 0;
+  padding: 0;
+}
+
